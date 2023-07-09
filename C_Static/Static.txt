@@ -1,0 +1,3 @@
+I told you
+I will check that what happens if I write in the second line
+I will directly commit this modified file without putting it into the stage area
